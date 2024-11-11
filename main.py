@@ -5,4 +5,3 @@ b = 5
 sum_result = calculate_sum(a,b)
 print(f"Sum: {sum_result}")
 
-
